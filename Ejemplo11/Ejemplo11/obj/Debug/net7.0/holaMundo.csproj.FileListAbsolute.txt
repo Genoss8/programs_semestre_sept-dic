@@ -1,0 +1,15 @@
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/bin/Debug/net7.0/holaMundo
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/bin/Debug/net7.0/holaMundo.deps.json
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/bin/Debug/net7.0/holaMundo.runtimeconfig.json
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/bin/Debug/net7.0/holaMundo.dll
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/bin/Debug/net7.0/holaMundo.pdb
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.csproj.AssemblyReference.cache
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.AssemblyInfoInputs.cache
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.AssemblyInfo.cs
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.csproj.CoreCompileInputs.cache
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.dll
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/refint/holaMundo.dll
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.pdb
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/holaMundo.genruntimeconfig.cache
+/workspaces/programs_semestre_sept-dic/holaMundo/holaMundo/obj/Debug/net7.0/ref/holaMundo.dll
