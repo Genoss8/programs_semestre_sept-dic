@@ -1,0 +1,15 @@
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.csproj.AssemblyReference.cache
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.AssemblyInfoInputs.cache
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.AssemblyInfo.cs
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.csproj.CoreCompileInputs.cache
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/bin/Debug/net7.0/programa13
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/bin/Debug/net7.0/programa13.deps.json
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/bin/Debug/net7.0/programa13.runtimeconfig.json
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/bin/Debug/net7.0/programa13.dll
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/bin/Debug/net7.0/programa13.pdb
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.dll
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/refint/programa13.dll
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.pdb
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/programa13.genruntimeconfig.cache
+/workspaces/programs_semestre_sept-dic/Ejemplo13/programa13/obj/Debug/net7.0/ref/programa13.dll
