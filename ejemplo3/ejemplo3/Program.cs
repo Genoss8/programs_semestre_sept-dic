@@ -1,0 +1,16 @@
+﻿double temp1;
+double temp2;
+double temp3;
+double suma;
+double prom;
+Console.WriteLine("ingrese temperatura 1");
+temp1=double.Parse(Console.ReadLine());
+Console.WriteLine("ingrese temperatura 2");
+temp2=double.Parse(Console.ReadLine());
+Console.WriteLine("ingrese temperatura 3");
+temp3=double.Parse(Console.ReadLine());
+suma=temp1+temp2+temp3;
+prom=suma/3;
+prom=Math.Round(prom, 2);
+Console.WriteLine("El promedio de las temperaturas es:"+prom);
+Console.WriteLine("°");
