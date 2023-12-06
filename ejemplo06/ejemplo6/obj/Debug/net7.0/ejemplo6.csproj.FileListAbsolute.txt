@@ -1,0 +1,15 @@
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/bin/Debug/net7.0/ejemplo6
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/bin/Debug/net7.0/ejemplo6.deps.json
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/bin/Debug/net7.0/ejemplo6.runtimeconfig.json
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/bin/Debug/net7.0/ejemplo6.dll
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/bin/Debug/net7.0/ejemplo6.pdb
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.csproj.AssemblyReference.cache
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.AssemblyInfoInputs.cache
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.AssemblyInfo.cs
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.csproj.CoreCompileInputs.cache
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.dll
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/refint/ejemplo6.dll
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.pdb
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ejemplo6.genruntimeconfig.cache
+/workspaces/programs_semestre_sept-dic/ejemplo06/ejemplo6/obj/Debug/net7.0/ref/ejemplo6.dll
