@@ -1,0 +1,15 @@
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/bin/Debug/net7.0/ejemplo9
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/bin/Debug/net7.0/ejemplo9.deps.json
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/bin/Debug/net7.0/ejemplo9.runtimeconfig.json
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/bin/Debug/net7.0/ejemplo9.dll
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/bin/Debug/net7.0/ejemplo9.pdb
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.csproj.AssemblyReference.cache
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.AssemblyInfoInputs.cache
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.AssemblyInfo.cs
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.csproj.CoreCompileInputs.cache
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.dll
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/refint/ejemplo9.dll
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.pdb
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ejemplo9.genruntimeconfig.cache
+/workspaces/programs_semestre_sept-dic/ejemplo09/ejemplo9/obj/Debug/net7.0/ref/ejemplo9.dll
